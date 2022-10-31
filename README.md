@@ -217,7 +217,7 @@ For example, let's say we have a song:
 ```ruby
 gold_digger = Song.new(name: "Gold Digger", album: "Late Registration")
 
-gold_digger.name
+gold_digger.nameexit
 # => "Gold Digger"
 
 gold_digger.album
